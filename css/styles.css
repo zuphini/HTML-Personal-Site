@@ -1,0 +1,19 @@
+body {
+  background-color: #C9E4C5;
+  font-family: Arial;
+}
+
+h1{
+  color: #865439;
+}
+h3{
+  color: #865439;
+}
+
+hr {
+  background-color: #C9E4C5;
+  border-color: #C1AC95;
+  border-style:dotted none none;
+  border-width: 8px;
+  width: 7%;
+}
